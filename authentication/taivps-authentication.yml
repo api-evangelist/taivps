@@ -1,0 +1,10 @@
+generated: '2026-10-09'
+method: searched
+source: https://taivps.net/api-docs
+docs: https://taivps.net/api-docs
+schemes:
+- name: token
+  type: apiKey
+  in: body
+  parameter: token
+  description: 'Every documented endpoint is a POST to https://taivps.net/api/<name>.php taking a required body parameter "token" (String, "Token API").'

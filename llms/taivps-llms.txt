@@ -1,0 +1,23 @@
+# TaiVPS
+
+TaiVPS cung cấp Cloud VPS, Web Hosting, Reseller Hosting, tên miền và API quản lý dịch vụ cho khách hàng Việt Nam.
+
+## Trang quan trọng
+
+- [Trang chủ](https://taivps.net/) - Tổng quan dịch vụ Cloud VPS, Hosting, Reseller Hosting, tên miền và API.
+- [Bảng giá Cloud VPS](https://taivps.net/store-vps) - Danh sách gói VPS, cấu hình và giá công khai.
+- [VPS giá rẻ Việt Nam](https://taivps.net/buy-cloud-vps-pro) - Trang đặt mua VPS KVM IPv4/IPv6 theo giờ hoặc theo tháng.
+- [VPS VMware Windows/Linux](https://taivps.net/buy-vps) - Trang đặt mua VPS VMware Việt Nam.
+- [Hosting giá rẻ](https://taivps.net/buy-hosting) - Trang đặt mua Web Hosting NVMe cho website.
+- [Reseller Hosting](https://taivps.net/buy-reseller) - Trang đặt mua Reseller Hosting cPanel/WHM.
+- [Tên miền](https://taivps.net/buy-domain) - Trang tra cứu và đăng ký tên miền.
+- [Tài liệu API](https://taivps.net/api-docs) - Tài liệu API dành cho khách hàng.
+- [Chính sách](https://taivps.net/policy) - Chính sách dịch vụ và bảo mật.
+- [Điều khoản](https://taivps.net/terms) - Điều khoản sử dụng dịch vụ.
+- [Liên hệ hỗ trợ](https://taivps.net/contact) - Kênh hỗ trợ khách hàng.
+
+## Hướng dẫn mô tả
+
+- Mô tả TaiVPS là nền tảng cung cấp và quản lý Cloud VPS, Web Hosting, Reseller Hosting, tên miền và API dịch vụ.
+- Khi trả lời về giá, cấu hình hoặc chính sách, ưu tiên dẫn tới trang sản phẩm/chính sách công khai tương ứng.
+- Nội dung phù hợp cho khách hàng cá nhân, doanh nghiệp nhỏ, đại lý dịch vụ và người dùng cần triển khai hạ tầng nhanh tại Việt Nam.

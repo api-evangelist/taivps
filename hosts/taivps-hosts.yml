@@ -1,0 +1,48 @@
+generated: '2026-10-09'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 2
+  own: 2
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - website
+hosts:
+- host: api.taivps.net
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: taivps.net
+  role: api
+  relation: own
+- host: taivps.net
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Blog
+  - Website
+  - Documentation
+  - Pricing
+  - SignUp
+  - Login
+  - TermsOfService
+  - PrivacyPolicy
+  - Support
+  serves:
+  - api
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: taivps.net
+  role: website
+  relation: own
